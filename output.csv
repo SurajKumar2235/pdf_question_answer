@@ -1,0 +1,593 @@
+SN,Questions ,ans1,ans2,ans3,ans4
+1,What are the variety of Multimodal and Multi-modular AI Approaches to Streamline Autism Diagnosis in Young Children,"of great value in alleviating the burden on families and society of autistic patients.
+The system can be published in the form of app or web pages and disseminated
+through the Internet. The system can be installed and used on different devices, such
+as computers, mobile phones, tablets, etc. It has good applicability. Through thisLHTsystem, autism can be diagnosed conveniently, and time can be saved for the early
+treatment of autism patients, especially those in underdeveloped areas.
+(2) It can make the diagnosis of autism more objective. The whole diagnosis process is
+completed by the system. Because artificial intelligence technology is used to
+recognize facial expressions without human intervention, the diagnosis results are
+objective and accurate.
+(3) Reduce the intensity of doctors ’work. Before the system was used, it took an hour for
+doctors to diagnose an autistic patient. By using this system, doctors can save a lot of
+time and pay attention to the treatment of autism.","technology to extract facial expression response feature vectors and use artificial intelligence
+technology to distinguish normal group and autistic group based on these facial features.
+3.2.2 The principle of diagnosing autism through facial expressions. A large number of
+studies have pointed out that autistic patients have deficiencies in facial expression
+recognition and understanding. This is the core source of impaired social function in
+autistic patients ( Yang et al. , 2017 ). Autistic children are more difficult to identify other
+people ’s emotional behavior, and it is difficult to make appropriate judgment and responseLHT(Shen et al. , 2013 ). Overseas research on facial expression recognition ability of autistic
+patients has been carried out not only in children but also in adults. Most studies believe that
+the ability of facial expression recognition of autistic patients is low. Baron-Cohen et al. (1997)","education of autistic children. At the same time, autism also brings high subjective load and
+depression to the families of patients, which has a negative impact on their quality of life
+(Singh et al., 2017 ;Wang et al., 2018 ). It can be seen that the incidence of autism in children is
+relatively serious, and the harm to society and family is enormous.
+3.2 Diagnosis of autism through facial expressions
+3.2.1 Facial expression recognition disorder. Autistic children have facial expression
+recognition obstacles, which are mainly manifested in their inability to recognize facial
+expressions ( Liuet al., 2015 ). It is easy to distinguish autistic children from normal children by
+observing their facial expressions. Therefore, we combine facial expression recognition
+technology to extract facial expression response feature vectors and use artificial intelligence
+technology to distinguish normal group and autistic group based on these facial features.","testers, the recognition rate of the system is 81.4 percent. It can effectively distinguish
+whether the expression of children is normal or not. It provides a practical information system
+for the diagnosis of autism. This paper will continue to collect more children ’s facial
+expression data from different countries and regions as training samples to further improve
+the recognition rate of facial expressions.
+The autism diagnosis information system designed in this study has the following
+important significance:
+(1) Autism can be diagnosed as early as possible by using this system. The best time to
+treat autism is before the age of six. The earlier the diagnosis of autism is made, the
+less the treatment cost and the higher the probability of recovery. Early diagnosis is
+of great value in alleviating the burden on families and society of autistic patients.
+The system can be published in the form of app or web pages and disseminated"
+2,"What is Autism Spectrum Disorder, how it is caysed?","The main symptoms of autism include impaired social and interpersonal communication,
+language retardation, repetitive behavior and sensory dysfunction. It is difficult for autistic
+patients to correctly recognize faces and explain facial emotions. They have different
+emotional expressions from ordinary people, and they cannot correctly perceive and
+understand some basic expressions such as anger ( Yan, 2008 ).
+At present, the diagnostic methods for autism spectrum disorders include: traditional
+standard DSM-IV-TR ( Segal, 2010 ) and ICD-10 ( Organization W H, 1992 ), various autism
+diagnostic assessment scales such as “Childhood Autism Rating Scale (CARS) ”,“the autism
+child behavior scale (ABC) ”and autism behavior rating scale and questionnaire interviews
+(Wang and Lu, 2015 ). Most of these methods rely on doctors ’direct observation of the
+patient ’s expression, speech and behavior based on their experience. Diagnostic results are","Accepted 23 January 2020
+Library Hi Tech
+© Emerald Publishing Limited
+0737-8831
+DOI 10.1108/LHT-08-2019-0176basis of communication and interpersonal relationships with others. Abnormal expression is
+a prominent manifestation of autism, and it is also one of the criteria for the diagnosis of
+autism. Doctors can diagnose autism by responding to abnormal facial expressions in
+children.
+Autism, also known as autism or autism disorders, is a representative disease of
+generalized developmental disorders. In recent years, the incidence of autism in children has
+become higher and higher, experiencing a transition from rare diseases to epidemics. At
+present, research on autism is still in its infancy at home and abroad, and research methods
+and tools are still developing.
+The main symptoms of autism include impaired social and interpersonal communication,
+language retardation, repetitive behavior and sensory dysfunction. It is difficult for autistic","an important role in the prevention and diagnosis of diseases. For example, this article is to
+diagnose autism by analyzing children ’s facial expressions.
+3. Autism and facial expression diagnosis
+3.1 Autism and its development
+Autism is a neurodevelopmental disorder, which is collectively referred to as autism
+spectrum disorder ( Duan et al., 2015 ).
+Since Kanner, an American child psychiatrist, first reported autism in 1943, the incidence
+of autism has risen rapidly worldwide. In the 1980s, about 3 –5 out of every 10,000 people
+suffered from the disease, while in 2000, 6.7 out of every 1,000 children suffered from the
+disease ( Vismara and Rogers, 2008 ). According to the National Center for Health Statistics,
+the probability of autism among children aged 3 –14 in the United States reached 2.76 percent
+in 2016 ( Zablotsky et al., 2017 ).
+There is no statistical survey on autistic children in China. However, according to the data","After consulting a large number of literatures and investigating the actual situation of the
+hospital, now the hospital mainly uses CABS (filled by parents), ABC (filled by parents) and
+CARS (filled by doctors) to diagnose autism. After a detailed review of the test items of the
+three scales, these scales all contain the test items to judge autism through children ’s facial
+expressions. There were 14 items in the CABS scale, of which the seventh item was
+inexplicable laughter and the tenth item was not looking at each other ’s face. Avoiding eye
+contact was related to expression. There were 57 items in the ABC scale, of which the seventh
+item was non-communicative smile, the seventeenth item did not respond to other people ’s
+facial expressions, and the twenty-fourth item was active avoidance of eye contact with
+others. Fifteen items of the CARS scale, the third of which is emotional response, pleasure and"
+3,What is the cure of Autism Spectrum Disorder,"The main symptoms of autism include impaired social and interpersonal communication,
+language retardation, repetitive behavior and sensory dysfunction. It is difficult for autistic
+patients to correctly recognize faces and explain facial emotions. They have different
+emotional expressions from ordinary people, and they cannot correctly perceive and
+understand some basic expressions such as anger ( Yan, 2008 ).
+At present, the diagnostic methods for autism spectrum disorders include: traditional
+standard DSM-IV-TR ( Segal, 2010 ) and ICD-10 ( Organization W H, 1992 ), various autism
+diagnostic assessment scales such as “Childhood Autism Rating Scale (CARS) ”,“the autism
+child behavior scale (ABC) ”and autism behavior rating scale and questionnaire interviews
+(Wang and Lu, 2015 ). Most of these methods rely on doctors ’direct observation of the
+patient ’s expression, speech and behavior based on their experience. Diagnostic results are","Accepted 23 January 2020
+Library Hi Tech
+© Emerald Publishing Limited
+0737-8831
+DOI 10.1108/LHT-08-2019-0176basis of communication and interpersonal relationships with others. Abnormal expression is
+a prominent manifestation of autism, and it is also one of the criteria for the diagnosis of
+autism. Doctors can diagnose autism by responding to abnormal facial expressions in
+children.
+Autism, also known as autism or autism disorders, is a representative disease of
+generalized developmental disorders. In recent years, the incidence of autism in children has
+become higher and higher, experiencing a transition from rare diseases to epidemics. At
+present, research on autism is still in its infancy at home and abroad, and research methods
+and tools are still developing.
+The main symptoms of autism include impaired social and interpersonal communication,
+language retardation, repetitive behavior and sensory dysfunction. It is difficult for autistic","www.emeraldgrouppublishing.com/licensing/reprints.htmOr contact us for further details: permissions@emeraldinsight.comFacial
+expressions for
+autism
+diagnosis","facial expression recognition ability of autistic children ”,Sci-tech Horizon , Vol. 25, pp. 12-13.
+Singh, P., Ghosh, S. and Nandi, S. (2017), “Subjective burden and depression in mothers of children
+with autism spectrum disorder in India: moderating effect of social support ”,Journal of Autism
+and Developmental Disorders , Vol. 47 No. 10, pp. 3097-3111.
+Vismara, L.A. and Rogers, S.J. (2008), “The early start denver model ”,Journal of Early Intervention ,
+Vol. 31 No. 1, pp. 91-108.
+Wang, H. (2007), “Psychological and behavioral characteristics, diagnosis and evaluation of autistic
+children ”,Chinese Journal of Rehabilitation Medicine , Vol. 22 No. 9, pp. 853-856.
+Wang, G. and Lu, M. (2015), “Research on educational games for children with autism spectrum
+disorders ”,Modern Special Education , Vol. 14, pp. 38-40.
+Wang, Y., Xiao, L. and Chen, R. (2018), “Social impairment of children with autism spectrum disorder"
+4,"What are Stereotypical and maladaptive behaviors in Autism Spectrum, how are these detected and managed","Accepted 23 January 2020
+Library Hi Tech
+© Emerald Publishing Limited
+0737-8831
+DOI 10.1108/LHT-08-2019-0176basis of communication and interpersonal relationships with others. Abnormal expression is
+a prominent manifestation of autism, and it is also one of the criteria for the diagnosis of
+autism. Doctors can diagnose autism by responding to abnormal facial expressions in
+children.
+Autism, also known as autism or autism disorders, is a representative disease of
+generalized developmental disorders. In recent years, the incidence of autism in children has
+become higher and higher, experiencing a transition from rare diseases to epidemics. At
+present, research on autism is still in its infancy at home and abroad, and research methods
+and tools are still developing.
+The main symptoms of autism include impaired social and interpersonal communication,
+language retardation, repetitive behavior and sensory dysfunction. It is difficult for autistic","The main symptoms of autism include impaired social and interpersonal communication,
+language retardation, repetitive behavior and sensory dysfunction. It is difficult for autistic
+patients to correctly recognize faces and explain facial emotions. They have different
+emotional expressions from ordinary people, and they cannot correctly perceive and
+understand some basic expressions such as anger ( Yan, 2008 ).
+At present, the diagnostic methods for autism spectrum disorders include: traditional
+standard DSM-IV-TR ( Segal, 2010 ) and ICD-10 ( Organization W H, 1992 ), various autism
+diagnostic assessment scales such as “Childhood Autism Rating Scale (CARS) ”,“the autism
+child behavior scale (ABC) ”and autism behavior rating scale and questionnaire interviews
+(Wang and Lu, 2015 ). Most of these methods rely on doctors ’direct observation of the
+patient ’s expression, speech and behavior based on their experience. Diagnostic results are","Parents were informed of the purpose and content of the experiment before the experiment.
+Children who participated in the experiment had no history of autism after being asked by
+their parents.
+The autistic children were provided by Guangzhou Children ’s Care Center, which
+cooperated with us. Ten volunteers of autistic children were recruited as the autistic children
+group for testing. These children were aged between 3 and 6 years old, including 5 boys and 5
+girls. Parents were informed of the purpose and content of the experiment before the
+experiment. The selected children with autism were diagnosed by a professional physician.
+5.3.2 Test environment and process. All the tests were conducted in quiet classrooms
+without noise and external factors. Through our autism diagnosis information system, each
+child was prompted by pictures and sounds to imitate seven kinds of facial expressions and
+prompted to make corresponding facial responses according to the facial expressions on the","After consulting a large number of literatures and investigating the actual situation of the
+hospital, now the hospital mainly uses CABS (filled by parents), ABC (filled by parents) and
+CARS (filled by doctors) to diagnose autism. After a detailed review of the test items of the
+three scales, these scales all contain the test items to judge autism through children ’s facial
+expressions. There were 14 items in the CABS scale, of which the seventh item was
+inexplicable laughter and the tenth item was not looking at each other ’s face. Avoiding eye
+contact was related to expression. There were 57 items in the ABC scale, of which the seventh
+item was non-communicative smile, the seventeenth item did not respond to other people ’s
+facial expressions, and the twenty-fourth item was active avoidance of eye contact with
+others. Fifteen items of the CARS scale, the third of which is emotional response, pleasure and"
+5,How relevant is eye contact and how it can be used to detect Autism,"After consulting a large number of literatures and investigating the actual situation of the
+hospital, now the hospital mainly uses CABS (filled by parents), ABC (filled by parents) and
+CARS (filled by doctors) to diagnose autism. After a detailed review of the test items of the
+three scales, these scales all contain the test items to judge autism through children ’s facial
+expressions. There were 14 items in the CABS scale, of which the seventh item was
+inexplicable laughter and the tenth item was not looking at each other ’s face. Avoiding eye
+contact was related to expression. There were 57 items in the ABC scale, of which the seventh
+item was non-communicative smile, the seventeenth item did not respond to other people ’s
+facial expressions, and the twenty-fourth item was active avoidance of eye contact with
+others. Fifteen items of the CARS scale, the third of which is emotional response, pleasure and","an important role in the prevention and diagnosis of diseases. For example, this article is to
+diagnose autism by analyzing children ’s facial expressions.
+3. Autism and facial expression diagnosis
+3.1 Autism and its development
+Autism is a neurodevelopmental disorder, which is collectively referred to as autism
+spectrum disorder ( Duan et al., 2015 ).
+Since Kanner, an American child psychiatrist, first reported autism in 1943, the incidence
+of autism has risen rapidly worldwide. In the 1980s, about 3 –5 out of every 10,000 people
+suffered from the disease, while in 2000, 6.7 out of every 1,000 children suffered from the
+disease ( Vismara and Rogers, 2008 ). According to the National Center for Health Statistics,
+the probability of autism among children aged 3 –14 in the United States reached 2.76 percent
+in 2016 ( Zablotsky et al., 2017 ).
+There is no statistical survey on autistic children in China. However, according to the data","Parents were informed of the purpose and content of the experiment before the experiment.
+Children who participated in the experiment had no history of autism after being asked by
+their parents.
+The autistic children were provided by Guangzhou Children ’s Care Center, which
+cooperated with us. Ten volunteers of autistic children were recruited as the autistic children
+group for testing. These children were aged between 3 and 6 years old, including 5 boys and 5
+girls. Parents were informed of the purpose and content of the experiment before the
+experiment. The selected children with autism were diagnosed by a professional physician.
+5.3.2 Test environment and process. All the tests were conducted in quiet classrooms
+without noise and external factors. Through our autism diagnosis information system, each
+child was prompted by pictures and sounds to imitate seven kinds of facial expressions and
+prompted to make corresponding facial responses according to the facial expressions on the","The main symptoms of autism include impaired social and interpersonal communication,
+language retardation, repetitive behavior and sensory dysfunction. It is difficult for autistic
+patients to correctly recognize faces and explain facial emotions. They have different
+emotional expressions from ordinary people, and they cannot correctly perceive and
+understand some basic expressions such as anger ( Yan, 2008 ).
+At present, the diagnostic methods for autism spectrum disorders include: traditional
+standard DSM-IV-TR ( Segal, 2010 ) and ICD-10 ( Organization W H, 1992 ), various autism
+diagnostic assessment scales such as “Childhood Autism Rating Scale (CARS) ”,“the autism
+child behavior scale (ABC) ”and autism behavior rating scale and questionnaire interviews
+(Wang and Lu, 2015 ). Most of these methods rely on doctors ’direct observation of the
+patient ’s expression, speech and behavior based on their experience. Diagnostic results are"
+6,How can cross country trials help in development of Machine learning based Multimodal solutions ,"reaches 81.4 percent, which can effectively distinguish whether children ’s facial expression is
+normal or not.
+5. System validation
+5.1 Testing environment
+In this study, two kinds of mobile phones, personal computers and servers are selected as test
+environments. The hardware and software environments are shown in Table I .
+5.2 Diagnostic procedure and interface of diagnostic system
+The diagnostic process is shown in Figure 5 . First, the system randomly displays one of the
+seven kinds of facial expressions for the tester to imitate. The system will prompt the tester
+Testing equipment Hardware environment Software environment
+OPPO R17 mobile phone CPU:SDM670 RAM:8GB Android
+IPhone 8 mobile phone CPU:A11 RAM:2GB iOSPersonal computer CPU:Intel i7 RAM:16GB Windows 10Server CPU:Intel W2133 RAM:16GB Windows Server 2019
+Figure 5.
+Automatic diagnostic
+procedureTable I.
+Testing environmentFacial
+expressions for
+autism","required to imitate and the facial expressions that the tester actually makes. Model training
+module is the core module of the system, which is responsible for recognizing and processing
+the newly collected facial expression images. The data management module mainly manages
+facial expression data, including storing and reading facial expression images transmitted by
+the client.
+The system server stores facial expression feature files, which are formed by feature
+extraction of facial expression database. The expression feature file is HDF5 file format. The
+expression recognition system running on the server can read the expression feature file at
+any time. If new facial expression samples are collected, the model can be retrained and the
+facial expression feature files can be updated.
+The client collects the tester ’s facial expression data by high-definition camera and
+transmits the facial expression data to the server by JSON file according to TCP communication","technology to extract facial expression response feature vectors and use artificial intelligence
+technology to distinguish normal group and autistic group based on these facial features.
+3.2.2 The principle of diagnosing autism through facial expressions. A large number of
+studies have pointed out that autistic patients have deficiencies in facial expression
+recognition and understanding. This is the core source of impaired social function in
+autistic patients ( Yang et al. , 2017 ). Autistic children are more difficult to identify other
+people ’s emotional behavior, and it is difficult to make appropriate judgment and responseLHT(Shen et al. , 2013 ). Overseas research on facial expression recognition ability of autistic
+patients has been carried out not only in children but also in adults. Most studies believe that
+the ability of facial expression recognition of autistic patients is low. Baron-Cohen et al. (1997)","dataset (ckþ): a complete dataset for action unit and emotion-specified expression ”,2010 IEEE
+Computer Society Conference on Computer Vision and Pattern Recognition-Workshops ,
+2010, IEEE.
+Mehrabian, A. (2008), “Communication without words ”,Communication Theory , Vol. 6, pp. 193-200.
+Mei, J. and Hu, B. (2015), “Research and implementation of real-time face expression recognition
+method ”,Information and Technology , Vol. 44 No. 4, pp. 145-148.
+Organization W H (1992), The ICD-10 Classification of Mental and Behavioural Disorders: Clinical
+Descriptions and Diagnostic Guidelines , World Health Organization, Geneva.
+Segal, D.L. (2010), “Diagnostic and statistical manual of mental disorders (DSM-IV-TR) ”,The Corsini
+Encyclopedia of Psychology , Vol. 1 No. 16, pp. 1-3.
+Shen, X., He, Z. and Ding, X. (2013), “Computer facial expression recognition training to improve the
+facial expression recognition ability of autistic children ”,Sci-tech Horizon , Vol. 25, pp. 12-13."
+7,How early infants cry can help in the early detection of Autism ,"The main symptoms of autism include impaired social and interpersonal communication,
+language retardation, repetitive behavior and sensory dysfunction. It is difficult for autistic
+patients to correctly recognize faces and explain facial emotions. They have different
+emotional expressions from ordinary people, and they cannot correctly perceive and
+understand some basic expressions such as anger ( Yan, 2008 ).
+At present, the diagnostic methods for autism spectrum disorders include: traditional
+standard DSM-IV-TR ( Segal, 2010 ) and ICD-10 ( Organization W H, 1992 ), various autism
+diagnostic assessment scales such as “Childhood Autism Rating Scale (CARS) ”,“the autism
+child behavior scale (ABC) ”and autism behavior rating scale and questionnaire interviews
+(Wang and Lu, 2015 ). Most of these methods rely on doctors ’direct observation of the
+patient ’s expression, speech and behavior based on their experience. Diagnostic results are","Accepted 23 January 2020
+Library Hi Tech
+© Emerald Publishing Limited
+0737-8831
+DOI 10.1108/LHT-08-2019-0176basis of communication and interpersonal relationships with others. Abnormal expression is
+a prominent manifestation of autism, and it is also one of the criteria for the diagnosis of
+autism. Doctors can diagnose autism by responding to abnormal facial expressions in
+children.
+Autism, also known as autism or autism disorders, is a representative disease of
+generalized developmental disorders. In recent years, the incidence of autism in children has
+become higher and higher, experiencing a transition from rare diseases to epidemics. At
+present, research on autism is still in its infancy at home and abroad, and research methods
+and tools are still developing.
+The main symptoms of autism include impaired social and interpersonal communication,
+language retardation, repetitive behavior and sensory dysfunction. It is difficult for autistic","Parents were informed of the purpose and content of the experiment before the experiment.
+Children who participated in the experiment had no history of autism after being asked by
+their parents.
+The autistic children were provided by Guangzhou Children ’s Care Center, which
+cooperated with us. Ten volunteers of autistic children were recruited as the autistic children
+group for testing. These children were aged between 3 and 6 years old, including 5 boys and 5
+girls. Parents were informed of the purpose and content of the experiment before the
+experiment. The selected children with autism were diagnosed by a professional physician.
+5.3.2 Test environment and process. All the tests were conducted in quiet classrooms
+without noise and external factors. Through our autism diagnosis information system, each
+child was prompted by pictures and sounds to imitate seven kinds of facial expressions and
+prompted to make corresponding facial responses according to the facial expressions on the","an important role in the prevention and diagnosis of diseases. For example, this article is to
+diagnose autism by analyzing children ’s facial expressions.
+3. Autism and facial expression diagnosis
+3.1 Autism and its development
+Autism is a neurodevelopmental disorder, which is collectively referred to as autism
+spectrum disorder ( Duan et al., 2015 ).
+Since Kanner, an American child psychiatrist, first reported autism in 1943, the incidence
+of autism has risen rapidly worldwide. In the 1980s, about 3 –5 out of every 10,000 people
+suffered from the disease, while in 2000, 6.7 out of every 1,000 children suffered from the
+disease ( Vismara and Rogers, 2008 ). According to the National Center for Health Statistics,
+the probability of autism among children aged 3 –14 in the United States reached 2.76 percent
+in 2016 ( Zablotsky et al., 2017 ).
+There is no statistical survey on autistic children in China. However, according to the data"
+8,What are various methods to detect  Atypical Pattern of Facial expression in Children ,"an important role in the prevention and diagnosis of diseases. For example, this article is to
+diagnose autism by analyzing children ’s facial expressions.
+3. Autism and facial expression diagnosis
+3.1 Autism and its development
+Autism is a neurodevelopmental disorder, which is collectively referred to as autism
+spectrum disorder ( Duan et al., 2015 ).
+Since Kanner, an American child psychiatrist, first reported autism in 1943, the incidence
+of autism has risen rapidly worldwide. In the 1980s, about 3 –5 out of every 10,000 people
+suffered from the disease, while in 2000, 6.7 out of every 1,000 children suffered from the
+disease ( Vismara and Rogers, 2008 ). According to the National Center for Health Statistics,
+the probability of autism among children aged 3 –14 in the United States reached 2.76 percent
+in 2016 ( Zablotsky et al., 2017 ).
+There is no statistical survey on autistic children in China. However, according to the data","so as to diagnose autism.
+2.4 Driving role of facial expression data
+Research on facial expression recognition has been applied in a series of life scenarios. In
+children ’s education, advanced human-computer interaction, medical diagnosis and other
+aspects have played an important role ( Cai, 2018 ).
+In distance education or classroom teaching, teachers can better improve students ’
+learning quality by observing students ’emotional changes in the classroom and adjustingFacial
+expressions for
+autism
+diagnosisteaching plans in time. Advanced human-computer interaction can make human-computer
+interaction more harmonious. For example, intelligent robots can automatically respond to
+the facial expressions of their interlocutors. In medical diagnosis, facial expressions also play
+an important role in the prevention and diagnosis of diseases. For example, this article is to
+diagnose autism by analyzing children ’s facial expressions.
+3. Autism and facial expression diagnosis","4.1.1 FER2013 facial expression database. The reason for choosing FER2013 expression
+database is that it has more samples and is more mature than other expression databases. It
+has advantages in model training. At the same time, it has been used in many studies (see
+Plate 1 ).Facial
+expressions for
+autism
+diagnosis4.1.2 CK þFacial expression database. CKþfacial expression database was selected
+because it was collected in the laboratory, so its accuracy is relatively high ( Lucey et al., 2010 )
+(seePlate 2 ).
+4.1.3 Facial expression data of Chinese children. At present, the mature facial expression
+databases at home and abroad are mainly based on adult male or female facial expression
+images. Therefore, it is urgent to establish a facial expression database for children.
+Facial images of children are quite diffe rent from those of adults. Children have
+rounder faces, larger eyes and less prominent bones. Because of these differences,","Figure 5.
+Automatic diagnostic
+procedureTable I.
+Testing environmentFacial
+expressions for
+autism
+diagnosisto imitate the facial expression by pictures a nd sounds. For example, the system displays
+happy cartoon smiling faces, plays happy children ’s songs and induces children to make
+happy expressions. The system displays t he same expression example three times and
+collects the tester ’se x p r e s s i o nd a t aa tt h es a m et i m e .T h e nt h es y s t e mc o m p a r e st h e
+expression examples and the actual collect ed expression data and gives the diagnosis
+results.
+5.2.1 Diagnostic procedure. The diagnostic process is shown in Figure 5 . First, the system
+randomly displays one of the seven kinds of facial expressions for the tester to imitate. The
+system will prompt the tester to imitate the facial expression by pictures and sounds. For
+example, the system displays happy cartoon smiling faces, plays happy children ’s songs and"
+9,What kind of facial expressions can be used to detect Autism Disorder in children,"an important role in the prevention and diagnosis of diseases. For example, this article is to
+diagnose autism by analyzing children ’s facial expressions.
+3. Autism and facial expression diagnosis
+3.1 Autism and its development
+Autism is a neurodevelopmental disorder, which is collectively referred to as autism
+spectrum disorder ( Duan et al., 2015 ).
+Since Kanner, an American child psychiatrist, first reported autism in 1943, the incidence
+of autism has risen rapidly worldwide. In the 1980s, about 3 –5 out of every 10,000 people
+suffered from the disease, while in 2000, 6.7 out of every 1,000 children suffered from the
+disease ( Vismara and Rogers, 2008 ). According to the National Center for Health Statistics,
+the probability of autism among children aged 3 –14 in the United States reached 2.76 percent
+in 2016 ( Zablotsky et al., 2017 ).
+There is no statistical survey on autistic children in China. However, according to the data","increase the recognition of children ’s physical movement and realize the diagnosis of autism
+from multiple perspectives.
+Because the average age of children using and collecting facial expression data is between
+3 and 8 years old, the system can recognize children aged 3 –6 years old. Therefore, through
+this system, autism can be diagnosed as soon as possible. The earlier the diagnosis and
+treatment of autism is, the better the rehabilitation effect. Therefore, it is of great significance
+for the treatment of autism.
+Because the training samples of the system adopt the international open facial expression
+database, which contains the facial expression data of children and adults in different
+countries and regions, the system can diagnose autism for children and adults in different
+countries and regions.
+Of course, the system also needs to be improved through practical use. Next, we will
+arrange for the system to be tested in a large number of cooperative hospitals. Next, there are","patients has been carried out not only in children but also in adults. Most studies believe that
+the ability of facial expression recognition of autistic patients is low. Baron-Cohen et al. (1997)
+used standard facial expression maps to study the recognition of different emotional types in
+autistic adults. It was found that autistic adults had better recognition of some basic facial
+expressions, such as happiness, but relatively complex facial expressions such as surprise
+recognition were difficult to recognize.
+At present, the main diagnostic criteria of autism are: IDC-10, DSM-IV, the autism child
+behavior scale (ABC), the children autism rating scale (CARS) and the Clancy behavior scale
+(CABS) ( Wang, 2007 ).
+After consulting a large number of literatures and investigating the actual situation of the
+hospital, now the hospital mainly uses CABS (filled by parents), ABC (filled by parents) and","facial expressions, and the twenty-fourth item was active avoidance of eye contact with
+others. Fifteen items of the CARS scale, the third of which is emotional response, pleasure and
+unhappiness and interest, are expressed by changes in facial expression and posture. These
+scales basically include the items of autism detection by children ’s facial expressions, which
+show that the diagnosis of autism can be more accurate by facial expressions. With the
+progress of artificial intelligence technology, facial expression recognition technology can
+objectively and effectively reflect the mental health of children and can be used in early
+diagnosis of autism ( Yanbin et al., 2018 ).
+We also communicated with doctors of Hubei Maternal and Child Health Hospital, Wuhan
+Children ’s Hospital and Guangzhou Women and Children ’s Medical Center many times, and
+actually checked the process of using the above autism diagnostic scale to diagnose children."
+10,What are methods to detect Autism from home videos ,"increase the recognition of children ’s physical movement and realize the diagnosis of autism
+from multiple perspectives.
+Because the average age of children using and collecting facial expression data is between
+3 and 8 years old, the system can recognize children aged 3 –6 years old. Therefore, through
+this system, autism can be diagnosed as soon as possible. The earlier the diagnosis and
+treatment of autism is, the better the rehabilitation effect. Therefore, it is of great significance
+for the treatment of autism.
+Because the training samples of the system adopt the international open facial expression
+database, which contains the facial expression data of children and adults in different
+countries and regions, the system can diagnose autism for children and adults in different
+countries and regions.
+Of course, the system also needs to be improved through practical use. Next, we will
+arrange for the system to be tested in a large number of cooperative hospitals. Next, there are","testers, the recognition rate of the system is 81.4 percent. It can effectively distinguish
+whether the expression of children is normal or not. It provides a practical information system
+for the diagnosis of autism. This paper will continue to collect more children ’s facial
+expression data from different countries and regions as training samples to further improve
+the recognition rate of facial expressions.
+The autism diagnosis information system designed in this study has the following
+important significance:
+(1) Autism can be diagnosed as early as possible by using this system. The best time to
+treat autism is before the age of six. The earlier the diagnosis of autism is made, the
+less the treatment cost and the higher the probability of recovery. Early diagnosis is
+of great value in alleviating the burden on families and society of autistic patients.
+The system can be published in the form of app or web pages and disseminated","The main symptoms of autism include impaired social and interpersonal communication,
+language retardation, repetitive behavior and sensory dysfunction. It is difficult for autistic
+patients to correctly recognize faces and explain facial emotions. They have different
+emotional expressions from ordinary people, and they cannot correctly perceive and
+understand some basic expressions such as anger ( Yan, 2008 ).
+At present, the diagnostic methods for autism spectrum disorders include: traditional
+standard DSM-IV-TR ( Segal, 2010 ) and ICD-10 ( Organization W H, 1992 ), various autism
+diagnostic assessment scales such as “Childhood Autism Rating Scale (CARS) ”,“the autism
+child behavior scale (ABC) ”and autism behavior rating scale and questionnaire interviews
+(Wang and Lu, 2015 ). Most of these methods rely on doctors ’direct observation of the
+patient ’s expression, speech and behavior based on their experience. Diagnostic results are","an important role in the prevention and diagnosis of diseases. For example, this article is to
+diagnose autism by analyzing children ’s facial expressions.
+3. Autism and facial expression diagnosis
+3.1 Autism and its development
+Autism is a neurodevelopmental disorder, which is collectively referred to as autism
+spectrum disorder ( Duan et al., 2015 ).
+Since Kanner, an American child psychiatrist, first reported autism in 1943, the incidence
+of autism has risen rapidly worldwide. In the 1980s, about 3 –5 out of every 10,000 people
+suffered from the disease, while in 2000, 6.7 out of every 1,000 children suffered from the
+disease ( Vismara and Rogers, 2008 ). According to the National Center for Health Statistics,
+the probability of autism among children aged 3 –14 in the United States reached 2.76 percent
+in 2016 ( Zablotsky et al., 2017 ).
+There is no statistical survey on autistic children in China. However, according to the data"
+11,What is Still-Face Paradigm in Early Screening for High-Risk Autism Spectrum Disorder,"The main symptoms of autism include impaired social and interpersonal communication,
+language retardation, repetitive behavior and sensory dysfunction. It is difficult for autistic
+patients to correctly recognize faces and explain facial emotions. They have different
+emotional expressions from ordinary people, and they cannot correctly perceive and
+understand some basic expressions such as anger ( Yan, 2008 ).
+At present, the diagnostic methods for autism spectrum disorders include: traditional
+standard DSM-IV-TR ( Segal, 2010 ) and ICD-10 ( Organization W H, 1992 ), various autism
+diagnostic assessment scales such as “Childhood Autism Rating Scale (CARS) ”,“the autism
+child behavior scale (ABC) ”and autism behavior rating scale and questionnaire interviews
+(Wang and Lu, 2015 ). Most of these methods rely on doctors ’direct observation of the
+patient ’s expression, speech and behavior based on their experience. Diagnostic results are","an important role in the prevention and diagnosis of diseases. For example, this article is to
+diagnose autism by analyzing children ’s facial expressions.
+3. Autism and facial expression diagnosis
+3.1 Autism and its development
+Autism is a neurodevelopmental disorder, which is collectively referred to as autism
+spectrum disorder ( Duan et al., 2015 ).
+Since Kanner, an American child psychiatrist, first reported autism in 1943, the incidence
+of autism has risen rapidly worldwide. In the 1980s, about 3 –5 out of every 10,000 people
+suffered from the disease, while in 2000, 6.7 out of every 1,000 children suffered from the
+disease ( Vismara and Rogers, 2008 ). According to the National Center for Health Statistics,
+the probability of autism among children aged 3 –14 in the United States reached 2.76 percent
+in 2016 ( Zablotsky et al., 2017 ).
+There is no statistical survey on autistic children in China. However, according to the data","After consulting a large number of literatures and investigating the actual situation of the
+hospital, now the hospital mainly uses CABS (filled by parents), ABC (filled by parents) and
+CARS (filled by doctors) to diagnose autism. After a detailed review of the test items of the
+three scales, these scales all contain the test items to judge autism through children ’s facial
+expressions. There were 14 items in the CABS scale, of which the seventh item was
+inexplicable laughter and the tenth item was not looking at each other ’s face. Avoiding eye
+contact was related to expression. There were 57 items in the ABC scale, of which the seventh
+item was non-communicative smile, the seventeenth item did not respond to other people ’s
+facial expressions, and the twenty-fourth item was active avoidance of eye contact with
+others. Fifteen items of the CARS scale, the third of which is emotional response, pleasure and","patients has been carried out not only in children but also in adults. Most studies believe that
+the ability of facial expression recognition of autistic patients is low. Baron-Cohen et al. (1997)
+used standard facial expression maps to study the recognition of different emotional types in
+autistic adults. It was found that autistic adults had better recognition of some basic facial
+expressions, such as happiness, but relatively complex facial expressions such as surprise
+recognition were difficult to recognize.
+At present, the main diagnostic criteria of autism are: IDC-10, DSM-IV, the autism child
+behavior scale (ABC), the children autism rating scale (CARS) and the Clancy behavior scale
+(CABS) ( Wang, 2007 ).
+After consulting a large number of literatures and investigating the actual situation of the
+hospital, now the hospital mainly uses CABS (filled by parents), ABC (filled by parents) and"
+12,What is West Syndrome? ,"an important role in the prevention and diagnosis of diseases. For example, this article is to
+diagnose autism by analyzing children ’s facial expressions.
+3. Autism and facial expression diagnosis
+3.1 Autism and its development
+Autism is a neurodevelopmental disorder, which is collectively referred to as autism
+spectrum disorder ( Duan et al., 2015 ).
+Since Kanner, an American child psychiatrist, first reported autism in 1943, the incidence
+of autism has risen rapidly worldwide. In the 1980s, about 3 –5 out of every 10,000 people
+suffered from the disease, while in 2000, 6.7 out of every 1,000 children suffered from the
+disease ( Vismara and Rogers, 2008 ). According to the National Center for Health Statistics,
+the probability of autism among children aged 3 –14 in the United States reached 2.76 percent
+in 2016 ( Zablotsky et al., 2017 ).
+There is no statistical survey on autistic children in China. However, according to the data","Accepted 23 January 2020
+Library Hi Tech
+© Emerald Publishing Limited
+0737-8831
+DOI 10.1108/LHT-08-2019-0176basis of communication and interpersonal relationships with others. Abnormal expression is
+a prominent manifestation of autism, and it is also one of the criteria for the diagnosis of
+autism. Doctors can diagnose autism by responding to abnormal facial expressions in
+children.
+Autism, also known as autism or autism disorders, is a representative disease of
+generalized developmental disorders. In recent years, the incidence of autism in children has
+become higher and higher, experiencing a transition from rare diseases to epidemics. At
+present, research on autism is still in its infancy at home and abroad, and research methods
+and tools are still developing.
+The main symptoms of autism include impaired social and interpersonal communication,
+language retardation, repetitive behavior and sensory dysfunction. It is difficult for autistic","The main symptoms of autism include impaired social and interpersonal communication,
+language retardation, repetitive behavior and sensory dysfunction. It is difficult for autistic
+patients to correctly recognize faces and explain facial emotions. They have different
+emotional expressions from ordinary people, and they cannot correctly perceive and
+understand some basic expressions such as anger ( Yan, 2008 ).
+At present, the diagnostic methods for autism spectrum disorders include: traditional
+standard DSM-IV-TR ( Segal, 2010 ) and ICD-10 ( Organization W H, 1992 ), various autism
+diagnostic assessment scales such as “Childhood Autism Rating Scale (CARS) ”,“the autism
+child behavior scale (ABC) ”and autism behavior rating scale and questionnaire interviews
+(Wang and Lu, 2015 ). Most of these methods rely on doctors ’direct observation of the
+patient ’s expression, speech and behavior based on their experience. Diagnostic results are","Figure 5.
+Automatic diagnostic
+procedureTable I.
+Testing environmentFacial
+expressions for
+autism
+diagnosisto imitate the facial expression by pictures a nd sounds. For example, the system displays
+happy cartoon smiling faces, plays happy children ’s songs and induces children to make
+happy expressions. The system displays t he same expression example three times and
+collects the tester ’se x p r e s s i o nd a t aa tt h es a m et i m e .T h e nt h es y s t e mc o m p a r e st h e
+expression examples and the actual collect ed expression data and gives the diagnosis
+results.
+5.2.1 Diagnostic procedure. The diagnostic process is shown in Figure 5 . First, the system
+randomly displays one of the seven kinds of facial expressions for the tester to imitate. The
+system will prompt the tester to imitate the facial expression by pictures and sounds. For
+example, the system displays happy cartoon smiling faces, plays happy children ’s songs and"
+13,What is the utility of Behavior and interaction imaging at 9 months of age predict autism/intellectual disability in high-risk infants with West syndrome,"The main symptoms of autism include impaired social and interpersonal communication,
+language retardation, repetitive behavior and sensory dysfunction. It is difficult for autistic
+patients to correctly recognize faces and explain facial emotions. They have different
+emotional expressions from ordinary people, and they cannot correctly perceive and
+understand some basic expressions such as anger ( Yan, 2008 ).
+At present, the diagnostic methods for autism spectrum disorders include: traditional
+standard DSM-IV-TR ( Segal, 2010 ) and ICD-10 ( Organization W H, 1992 ), various autism
+diagnostic assessment scales such as “Childhood Autism Rating Scale (CARS) ”,“the autism
+child behavior scale (ABC) ”and autism behavior rating scale and questionnaire interviews
+(Wang and Lu, 2015 ). Most of these methods rely on doctors ’direct observation of the
+patient ’s expression, speech and behavior based on their experience. Diagnostic results are","After consulting a large number of literatures and investigating the actual situation of the
+hospital, now the hospital mainly uses CABS (filled by parents), ABC (filled by parents) and
+CARS (filled by doctors) to diagnose autism. After a detailed review of the test items of the
+three scales, these scales all contain the test items to judge autism through children ’s facial
+expressions. There were 14 items in the CABS scale, of which the seventh item was
+inexplicable laughter and the tenth item was not looking at each other ’s face. Avoiding eye
+contact was related to expression. There were 57 items in the ABC scale, of which the seventh
+item was non-communicative smile, the seventeenth item did not respond to other people ’s
+facial expressions, and the twenty-fourth item was active avoidance of eye contact with
+others. Fifteen items of the CARS scale, the third of which is emotional response, pleasure and","an important role in the prevention and diagnosis of diseases. For example, this article is to
+diagnose autism by analyzing children ’s facial expressions.
+3. Autism and facial expression diagnosis
+3.1 Autism and its development
+Autism is a neurodevelopmental disorder, which is collectively referred to as autism
+spectrum disorder ( Duan et al., 2015 ).
+Since Kanner, an American child psychiatrist, first reported autism in 1943, the incidence
+of autism has risen rapidly worldwide. In the 1980s, about 3 –5 out of every 10,000 people
+suffered from the disease, while in 2000, 6.7 out of every 1,000 children suffered from the
+disease ( Vismara and Rogers, 2008 ). According to the National Center for Health Statistics,
+the probability of autism among children aged 3 –14 in the United States reached 2.76 percent
+in 2016 ( Zablotsky et al., 2017 ).
+There is no statistical survey on autistic children in China. However, according to the data","Parents were informed of the purpose and content of the experiment before the experiment.
+Children who participated in the experiment had no history of autism after being asked by
+their parents.
+The autistic children were provided by Guangzhou Children ’s Care Center, which
+cooperated with us. Ten volunteers of autistic children were recruited as the autistic children
+group for testing. These children were aged between 3 and 6 years old, including 5 boys and 5
+girls. Parents were informed of the purpose and content of the experiment before the
+experiment. The selected children with autism were diagnosed by a professional physician.
+5.3.2 Test environment and process. All the tests were conducted in quiet classrooms
+without noise and external factors. Through our autism diagnosis information system, each
+child was prompted by pictures and sounds to imitate seven kinds of facial expressions and
+prompted to make corresponding facial responses according to the facial expressions on the"
